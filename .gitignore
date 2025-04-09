@@ -1,5 +1,5 @@
 .terraform/
 .terraform.lock.hcl
-.key.pem
+key.pem
 terraform.tfstate
 terraform.tfstate.backup
